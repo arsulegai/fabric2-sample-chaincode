@@ -1,4 +1,4 @@
-module keyvalue
+module github.com/arsulegai/fabric2-sample-chaincode
 
 go 1.13
 
